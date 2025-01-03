@@ -42,17 +42,14 @@ Hi there! I'm **David Viscu**, a passionate developer who loves creating project
 
 ## 🌐 Projects and Contributions
 
-- [**Faeria**](https://github.com/dviscu/faeria): A GameFi project with blockchain-based tradable assets.
-- [**Experimental Playground**](https://github.com/dviscu/experimental): Testing ideas and concepts across various languages.
-- [**Code Snippets**](https://github.com/dviscu/snippets): A collection of useful scripts and utilities.
+- [**Faeria**](https://github.com/dviscu/enterfaeria): A GameFi project with blockchain-based tradable assets.
+- [**Code Snippets**](https://github.com/dviscu/animated-octo-parakeet): A collection of useful scripts and utilities.
 
 ---
 
 ## 📫 How to Reach Me
 
 - **GitHub:** [https://github.com/dviscu](https://github.com/dviscu)
-- **Twitter:** [https://x.com/dviscu](https://x.com/dviscu)
-- **LinkedIn:** [https://linkedin.com/in/dviscu](https://linkedin.com/in/dviscu)
 
 ---
 
