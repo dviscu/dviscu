@@ -1,4 +1,4 @@
-# 👋 Hi, I'm David Viscu!
+# 👋 Hi, I'm David Viscu! 
 
 <!--https://octodex.github.com/images/hula_loop_octodex03.gif-->
 <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'>
